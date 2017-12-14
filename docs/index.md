@@ -34,12 +34,14 @@ The griffin, also sometimes spelled griffon, or gryphon is a fantastic creature 
 # Submit your Favorite Griffin Photos
 
 <form id="imagesubmit" method="POST" action="https://formspree.io/bwart@marketo.com">
-  <input type="email" name="Email" placeholder="Your email">
-  <input type="text" name="Caption" placeholder="My Favorite Griffin">
-  <input type="text" name="Image URL" placeholder="Link to Image">
+  <input type="hidden" name="_subject" value="Griffin Image Submission" />
+  <input type="hidden" name="_gotcha" style="display:none" />
+  <input type="hidden" name="_next" value="https://bwart-mkto.github.io/scrum-team-griffin-site/" />
+  <input type="email" name="email" placeholder="Your email" />
+  <input type="text" name="caption" placeholder="My Favorite Griffin" />
+  <input type="text" name="image_url" placeholder="Link to Image" />
   <textarea name="Message" placeholder="Here is a picture of my favorite griffen."></textarea>
-  <input type="text" name="_gotcha" style="display:none"/>
-  <button type="submit">Send</button>
+  <button type="submit">Submit</button>
 </form>
 <script>
     var imagesubmit =  document.getElementById('imagesubmit');
