@@ -25,7 +25,7 @@ The griffin, griffon, or gryphon (Greek: γρύφων, grýphōn, or γρύπω�
 ## Giffin serpentinis - A subspecies of griffin with the snakelike tail
 <img src="Griffin image 5.jpg">
 
-Submit your own Griffin photos coming soon!
+# Submit your Favorite Griffin Photos!
 
 <form id="imagesubmit" method="POST" action="https://formspree.io/bwart@marketo.com">
   <input type="email" name="Email" placeholder="Your email">
