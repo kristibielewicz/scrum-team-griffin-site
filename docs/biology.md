@@ -3,3 +3,5 @@ A Griffin is a large animal, averaging 500 pounds in weight, with a body length 
 
 # Lifecycle
 Griffins are hatched from eggs. Griffins are long lived, though due to their generally solitary and deadly nature, their average lifespan is not known.
+
+[Back to home](index.md)
