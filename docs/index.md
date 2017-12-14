@@ -1,5 +1,3 @@
-<meta name="referrer" content="origin">
-
 # Griffin
 
 [Behavior](behavior.md) |
@@ -29,7 +27,7 @@ The griffin, griffon, or gryphon (Greek: γρύφων, grýphōn, or γρύπω�
 
 Submit your own Griffin photos coming soon!
 
-<form id="imagesubmit" method="POST" action="http://formspree.io/bwart@marketo.com">
+<form id="imagesubmit" method="POST" action="https://formspree.io/bwart@marketo.com">
   <input type="email" name="email" placeholder="Your email">
   <textarea name="message" placeholder="Your message"></textarea>
   <input type="text" name="_gotcha" style="display:none" />
