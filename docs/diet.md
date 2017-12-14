@@ -3,3 +3,4 @@ Weighing in at around 500 pouds, Griffins survive on a diet consisting of a smal
 
 Famous adventurers that have been known to be consumed by Griffons include [Drizzt Do'urden](http://forgottenrealms.wikia.com/wiki/Drizzt_Do%27Urden), and the mage [Elminster](http://forgottenrealms.wikia.com/wiki/Elminster_Aumar) in [The Battle of Evermore](https://www.youtube.com/watch?v=88b0OYxdtyM).
 
+[Back to home](index.md)
