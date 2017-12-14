@@ -1,4 +1,5 @@
 # Behavior
+[Home](index.md) |
 [Biology](biology.md) |
 [Diet](diet.md) |
 [Habitat](habitat.md) |
@@ -10,4 +11,4 @@ The animal typically gets food by lording within its opulent lair or nest, await
 # Family Life
 Griffins start life in a small pride composed of their immediate family. As the griffins age, they will eventually leave this pride, taking on a largely solitary life. Eventually, two griffins will come together, and they will form a lifelong bond. These two griffins will mate and start a new pride with their offspring.
 
-[Back to home](index.md)
+[Back to Home](index.md)
