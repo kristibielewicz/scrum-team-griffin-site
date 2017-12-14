@@ -16,5 +16,5 @@ The griffin, griffon, or gryphon (Greek: γρύφων, grýphōn, or γρύπω�
 ## A sad Griffin
 <img src="Griffin image 4.jpg">
 
-## A sad Griffin
+## Giffin serpentinis - A subspecies of griffin with the snakelike tail
 <img src="Griffin image 5.jpg">
