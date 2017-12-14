@@ -26,3 +26,10 @@ The griffin, griffon, or gryphon (Greek: γρύφων, grýphōn, or γρύπω�
 <img src="Griffin image 5.jpg">
 
 Submit your own Griffin photos coming soon!
+
+<form id="contactform" method="POST">
+    <input type="text" placeholder="Your name">
+    <input type="email" placeholder="Your email">
+    <textarea placeholder="Your message"></textarea>
+    <input type="submit" value="Send">
+</form>
