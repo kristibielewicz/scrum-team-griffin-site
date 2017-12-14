@@ -5,7 +5,8 @@
 [Diet](diet.md) |
 [Gallery](gallery.md) |
 [Habitat](habitat.md) |
-[Mating and Reproduction](matingreproduction.md)
+[Mating and Reproduction](matingreproduction.md) | 
+[interesting Facts](habitat.md)
 
 Welcome to the amazing Griffin website, home to all the information about Griffons you could ever imagine. Explore each page to find out more information about this unique and mysterious creature.
 
