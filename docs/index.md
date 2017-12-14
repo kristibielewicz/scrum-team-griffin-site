@@ -42,7 +42,6 @@ Email<br/><input type="email" name="email" placeholder="Your email" /><br/>
 Caption<br/><input type="text" name="caption" placeholder="My Favorite Griffin" /><br/>
 Image<br/><input type="text" name="image_url" placeholder="Link to Image" /><br/>
 Or<br/><input type="hidden" role="uploadcare-uploader" name="griffen_image" /><br/>
-Message (Optional)<br/><textarea name="Message" placeholder="Here is a picture of my favorite griffen."></textarea><br/>
   <button type="submit">Submit</button>
 </form>
 <script>
