@@ -38,15 +38,15 @@ The griffin, also sometimes spelled griffon, or gryphon is a fantastic creature 
   <input type="hidden" name="_gotcha" style="display:none" />
   <input type="hidden" name="_next" value="https://bwart-mkto.github.io/scrum-team-griffin-site/" />
   <input type="hidden" name="_cc" value="sfabini@marketo.com,kbielewicz@marketo.com,mfenwick@marketo.com,talkhateeb@marketo.com" />
-##### Email
+Email<br/>
   <input type="email" name="email" placeholder="Your email" />
-##### Caption
+Caption<br/>
   <input type="text" name="caption" placeholder="My Favorite Griffin" />
-##### Link to Image
+Link to Image<br/>
   <input type="text" name="image_url" placeholder="Link to Image" />
-##### Upload Image
+Upload Image<br/>
   <input type="hidden" role="uploadcare-uploader" name="griffen_image" />
-##### Message (Optional)
+Message (Optional)<br/>
   <textarea name="Message" placeholder="Here is a picture of my favorite griffen."></textarea>
   <button type="submit">Submit</button>
 </form>
