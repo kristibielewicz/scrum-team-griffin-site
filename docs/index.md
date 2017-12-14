@@ -27,9 +27,8 @@ The griffin, griffon, or gryphon (Greek: γρύφων, grýphōn, or γρύπω�
 
 Submit your own Griffin photos coming soon!
 
-<form id="contactform" method="POST">
-    <input type="text" placeholder="Your name">
-    <input type="email" placeholder="Your email">
-    <textarea placeholder="Your message"></textarea>
-    <input type="submit" value="Send">
+<form method="POST" action="http://formspree.io/bwart@marketo.com">
+  <input type="email" name="email" placeholder="Your email">
+  <textarea name="message" placeholder="Your message"></textarea>
+  <button type="submit">Send</button>
 </form>
