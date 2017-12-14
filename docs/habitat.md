@@ -1,6 +1,9 @@
 # Griffin Habitat
 
-   Their habitats are the skies and in the high mountains where they guard the treasures of immortality.
+Gryphons prefere eagle-like structures in social societies. A pair of Gryphons, that were hence wandering will come together and mate for life. When hunting they normally take to the air, though they have been known to hunt upon the ground in deeply wooded forests. When a male and female bond they are inseparable unless one is hunting for young while the other “baby-sits.”
+
+Highly defensive of their meals, Gryphons normally hang dead food from tree branches to protect the meal from ground predators. When eating Gryphons keep their wings open, shading the meal from prying eyes of other predators.
+   
 
 # History
 
