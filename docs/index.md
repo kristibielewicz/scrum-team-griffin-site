@@ -3,6 +3,7 @@
 [Behavior](behavior.md) |
 [Habitat](habitat.md) |
 [Diet](diet.md) |
+[Biology](biology.md) |
 [Mating and Reproduction](matingreproduction.md)
 
 Welcome to the amazing Griffin website, home to all the information about Griffons you could ever imagine. Explore each page to find out more information about this unique and mysterious creature.
