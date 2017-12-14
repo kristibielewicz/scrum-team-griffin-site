@@ -1,5 +1,5 @@
 
-# [Back to Homepage](index.md) 
+
 # Griffin Habitat
 
 Gryphons prefere eagle-like structures in social societies. A pair of Gryphons, that were hence wandering will come together and mate for life. When hunting they normally take to the air, though they have been known to hunt upon the ground in deeply wooded forests. When a male and female bond they are inseparable unless one is hunting for young while the other “baby-sits.”
@@ -16,3 +16,4 @@ In Central Asia, the griffin appears about a thousand years after Bronze Age Cre
 # COMBAT
 Griffons prefer to pounce on their prey, either diving to the attack or leaping from above.
 
+# [Back to Homepage](index.md) 
