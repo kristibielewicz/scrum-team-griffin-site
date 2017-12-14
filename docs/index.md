@@ -1,3 +1,5 @@
+<meta name="referrer" content="origin">
+
 # Griffin
 
 [Behavior](behavior.md) |
