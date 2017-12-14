@@ -1,5 +1,9 @@
 
 # Griffin Habitat
+[Behavior](behavior.md) |
+[Biology](biology.md) |
+[Diet](diet.md) |
+[Mating and Reproduction](matingreproduction.md)
 
 Gryphons prefere eagle-like structures in social societies. A pair of Gryphons, that were hence wandering will come together and mate for life. When hunting they normally take to the air, though they have been known to hunt upon the ground in deeply wooded forests. When a male and female bond they are inseparable unless one is hunting for young while the other “baby-sits.”
 
