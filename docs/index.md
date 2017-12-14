@@ -30,7 +30,7 @@ Submit your own Griffin photos coming soon!
 <form id="imagesubmit" method="POST" action="https://formspree.io/bwart@marketo.com">
   <input type="email" name="email" placeholder="Your email">
   <textarea name="message" placeholder="Your message"></textarea>
-  <input type="text" name="_gotcha" style="display:none" />
+  <input type="text" name="_gotcha" />
   <button type="submit">Send</button>
 </form>
 <script>
