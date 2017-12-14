@@ -1,4 +1,4 @@
 # Griffen Title
 
 Griffen text
-![alt text](https://www.example.com/example.png "Logo Title Text 1")
+![A Griffon](./Griffin\ Image\ 2.jpg "Logo Title Text 1")
