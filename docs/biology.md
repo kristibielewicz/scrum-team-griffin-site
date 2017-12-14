@@ -1,4 +1,6 @@
 # Physical Characteristics
+
+[Home](index.md) |
 [Behavior](behavior.md) |
 [Diet](diet.md) |
 [Habitat](habitat.md) |
@@ -11,4 +13,4 @@ Griffins also possess exceptional eyesight, and are able to see well not only in
 # Lifecycle
 Griffins are hatched from eggs. Griffins are long lived, though due to their generally solitary and deadly nature, their average lifespan is not known.
 
-[Back to home](index.md)
+[Back to Home](index.md)
