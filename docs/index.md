@@ -40,6 +40,7 @@ The griffin, also sometimes spelled griffon, or gryphon is a fantastic creature 
   <input type="email" name="email" placeholder="Your email" />
   <input type="text" name="caption" placeholder="My Favorite Griffin" />
   <input type="text" name="image_url" placeholder="Link to Image" />
+  <input type="hidden" role="uploadcare-uploader" name="griffen_image" />
   <textarea name="Message" placeholder="Here is a picture of my favorite griffen."></textarea>
   <button type="submit">Submit</button>
 </form>
